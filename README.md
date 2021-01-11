@@ -1,1 +1,1 @@
-<h1>Palindrome coded in java.</h1>
+<h1>Palindrome verifier coded in java.</h1>
