@@ -1,2 +1,1 @@
-# palindrome
-Pequeno código
+<h1>Palindrome coded in java.</h1>
