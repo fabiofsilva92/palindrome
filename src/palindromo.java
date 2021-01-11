@@ -1,6 +1,6 @@
 import javax.swing.*; 
 
-public class palindrome {
+public class palindromo {
     public static void main(String args [ ]) 
     { 
 
